@@ -1,0 +1,19 @@
+{
+  "name": "Laptop-Store",
+  "version": "1.0.0",
+  "description": "Laptop-Store Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simeong-web/Laptop-Store.git"
+  },
+  "author": "Simeon Georgiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simeong-web/Laptop-Store/issues"
+  },
+  "homepage": "https://github.com/simeong-web/Laptop-Store#readme"
+}
