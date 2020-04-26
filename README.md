@@ -7,6 +7,6 @@ through DOM markup.
 ******************************************************************************************************************************
 Demo:
 ******************************************************************************************************************************
-The project is available to view/interact in desktop mode, full responsiveness is to be added soon.
-Link: https://laptop-test.herokuapp.com/
+The project is available to view/interact in desktop mode.
+Link: https://laptop-web-store.herokuapp.com/
 ******************************************************************************************************************************
